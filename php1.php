@@ -2,3 +2,5 @@
 
 phpinfo();
 php>
+
+print("hello!")
